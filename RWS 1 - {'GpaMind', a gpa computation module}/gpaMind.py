@@ -121,7 +121,6 @@ def calc_gpa ( inputStudent ):
     # where LIST-MAP is a list mapping of the following lamda and list map
     # where LAMBDA IS lamda ( courseTuple ) : credit_list [ courseTuple [ 0 ].upper ( ) ] WHICH IS A FUNCTION WHICH RETURNS THE CREDIT WEIGHT FROM ELEMENTS OF TUPLE calc_letter_grade ( inputStudent )
     # where LIST IS list ( map ( convert_to_wtqp, calc_letter_grade ( inputStudent ) ) WHICH IS A LIST OF COURSES
-    ######## SIGMA ( credit weights )
     return sum ( list ( map ( lambda ( a, b ) : a * b, list ( map ( convert_to_wtqp, calc_letter_grade ( inputStudent ) ) ) ) ) ) / sum ( list ( map ( lambda ( courseTuple ) : credit_list [ courseTuple [ 0 ].upper ( ) ], calc_letter_grade ( inputStudent ) ) ) )
     
 #problem 3b - calc_gpa test
