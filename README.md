@@ -10,3 +10,5 @@ INDEX
   RWS 0 : 'Stripper', a recreational based on paper strip theorem
   
   RWS 1 : 'GpaMind', a gpa computation module
+  
+  RWS 2 : 'Swentas', an advanced time table scheduler
