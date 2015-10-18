@@ -39,9 +39,3 @@ Configure all php files with your localhost details, and generate database, then
 
 
 
-
-
-
-AUTHOR PORTFOLIO
-=============================
-http://folioverse.appspot.com/
