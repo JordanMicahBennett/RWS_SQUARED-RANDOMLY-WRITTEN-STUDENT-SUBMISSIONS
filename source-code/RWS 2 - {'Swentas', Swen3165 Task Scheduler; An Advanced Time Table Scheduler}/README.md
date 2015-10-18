@@ -13,7 +13,7 @@ Swentas is live via http://swentas.honor.es
 
 CODE
 =============================
-Swentas utilizes javascript closures, to encompass powerful scheduling techniques.
+Swentas utilizes javascript closures, thereafter encompassing powerful scheduling techniques.
 
 Observe:
 
