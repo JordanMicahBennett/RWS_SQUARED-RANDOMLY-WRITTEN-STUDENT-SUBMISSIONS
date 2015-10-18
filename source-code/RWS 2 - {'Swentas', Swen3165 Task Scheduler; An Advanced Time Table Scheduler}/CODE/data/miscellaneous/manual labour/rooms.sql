@@ -1,0 +1,12 @@
+Insert into Selectable_Rooms values('Computer Lab 1');
+Insert into Selectable_Rooms values('Computing Lecture Room');
+Insert into Selectable_Rooms values('Computer Science Tutorial Room 2');
+Insert into Selectable_Rooms values('POST GRAD COMPUTER ROOM');
+Insert into Selectable_Rooms values('Computer Science Tutorial Room 1');
+Insert into Selectable_Rooms values('PAS: PreClinical Lecture Theatre');
+Insert into Selectable_Rooms values('PAS Science Lecture Theatre');
+Insert into Selectable_Rooms values('PAS: Physiology Lect Theatre');
+Insert into Selectable_Rooms values('Western Jamaica Computer Lab');
+Insert into Selectable_Rooms values('PAS Computer Science Lab 2');
+Insert into Selectable_Rooms values('Western Jamaica Seminar Room 1');
+Insert into Selectable_Rooms values('PA Phys Lecture Theater B');
