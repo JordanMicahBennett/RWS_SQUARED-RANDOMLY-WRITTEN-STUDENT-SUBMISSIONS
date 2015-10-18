@@ -35,7 +35,7 @@ and
 
 CONFIGURATION
 =============================
-Configure all php files with your localhost details, and generate database, then populate with data/miscallaneous/u197334111_tas.sql
+Configure all php files with your localhost details, and generate database, then populate with [data/miscallaneous/u197334111_tas.sql](https://github.com/JordanMicahBennett/RWS_SQUARED-RANDOMLY-WRITTEN-STUDENT-SUBMISSIONS/blob/master/source-code/RWS%202%20-%20%7B'Swentas'%2C%20Swen3165%20Task%20Scheduler%3B%20An%20Advanced%20Time%20Table%20Scheduler%7D/CODE/data/miscellaneous/u197334111_tas.sql)
 
 
 
